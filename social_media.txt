@@ -3,3 +3,7 @@
 2)     Add code
 
 3)    Test the code
+
+4)    Error finder
+
+5)   Debugging 
