@@ -1,13 +1,7 @@
-1)      Create File
-
-2)     Add code
-
-3)    Test the code
-
-4)    Error finder
-
-5)   Debugging 
-
-6)  Branch 1 edited 
-
-7) Completed project
+public class demo1 {
+ 
+ public static void main(String[] args) {
+  System.out.println("Hello\nAlexandra Abramov!");
+ }
+ 
+}
